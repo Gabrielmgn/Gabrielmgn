@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gabrielmgn
 - 👀 I’m interested in learning the basics
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on DevOps projects
+- 💞️ I’m looking to collaborate on DevOps projects in the future
 - 📫 How to reach me: I don't really see a reason why at the moment, but you can reach me on my e-mail gabrielmgn@gmail.com
 
 <!---
